@@ -1,6 +1,6 @@
-# GSoC21 DeepLense Applicants
+# GSoC22 DeepLense Applicants
 
-## Domain Adaptation
+## Lens Finding
 
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
@@ -27,4 +27,8 @@
 | Apoorva Vikram Singh ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/CV/Equivariant/Apoorva%20V%20Singh.pdf))   | [Apoorva99](https://github.com/Apoorva99)             | [Link](https://github.com/Apoorva99/GSoC-2021-DeepLens)  | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/Proposals/Equivariant/Apoorva%20V%20Singh.pdf) |
 | Rajat Gupta ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/CV/Equivariant/Rajat%20Gupta.pdf))            | [rajatguptakgp](https://github.com/rajatguptakgp)     | [Link](https://github.com/rajatguptakgp/gsoc21_deeplense)      | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/Proposals/Equivariant/Rajat%20Gupta.pdf) |
 | Asad Imtiaz Malik ([CV](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/CV/Equivariant/Asad.pdf))      | [asadimtiazmalik](https://github.com/asadimtiazmalik) | [Link](https://github.com/asadimtiazmalik/ML4SCI--Solution-Repository/) | [Link](https://github.com/ML4SCI/GSoC_Solutions/blob/main/DeepLense/Proposals/Equivariant/Asad.pdf) |
+
+## Transformers 
+
+## Update Pipeline
                                                                            
